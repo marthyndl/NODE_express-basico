@@ -1,0 +1,24 @@
+{
+  "name": "NODE_express-basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marthyndl/NODE_express-basico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marthyndl/NODE_express-basico/issues"
+  },
+  "homepage": "https://github.com/marthyndl/NODE_express-basico#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4"
+  }
+}
